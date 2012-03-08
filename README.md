@@ -3,7 +3,7 @@ A [giter8] [Akka] 2.0 tutorial project using [Scala] and [sbt].
 
 Prerequisites to use this tutorial is to have [sbt] and [giter8] installed.
 
-The next step is to open a terminal window and::
+The next step is to open a terminal window and:
 	
 	$ cd /Users/theuser/code (or where ever you would like your code to end up)
 	$ g8 typesafehub/akka-first-tutorial-scala
@@ -19,7 +19,7 @@ The next step is to open a terminal window and::
 	Applied typesafehub/akka-first-tutorial-scala.g8 in akka-tutorial-project
 
 Okay, so now you have created the tutorial as a local project on your computer.
-To run and test it use SBT::
+To run and test it use SBT:
 
 	$ cd akka-tutorial-project
 	$ sbt
