@@ -1,5 +1,5 @@
 
-A [giter8] [Akka] 2.0 tutorial project using [Scala] and [sbt].
+A [giter8] based [Akka] 2.0 tutorial project using [Scala] and [sbt].
 
 Prerequisites to use this tutorial is to have [sbt] and [giter8] installed.
 
