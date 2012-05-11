@@ -10,7 +10,7 @@ object ProjectBuild extends Build {
       name := "$name$",
       organization := "$organization$",
       version := "$version$",
-      scalaVersion := "2.9.1",
+      scalaVersion := "2.9.2",
       resolvers += "Typesafe Releases" at "http://repo.typesafe.com/typesafe/releases",
       libraryDependencies ++= Seq(
         "com.typesafe.akka" % "akka-actor"      % "$akka_version$",
