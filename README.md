@@ -1,5 +1,5 @@
 
-A [giter8] based [Akka] 2.0 tutorial project using [Scala] and [sbt].
+A [giter8] based [Akka] 2.1 tutorial project using [Scala] and [sbt].
 
 Prerequisites to use this tutorial is to have [sbt] and [giter8] installed.
 
@@ -8,12 +8,12 @@ The next step is to open a terminal window and:
 	$ cd /Users/theuser/code (or where ever you would like your code to end up)
 	$ g8 typesafehub/akka-first-tutorial-scala
     
-    Akka 2.0 project using Scala and sbt 
+    Akka 2.1 project using Scala and sbt 
 
 	organization [org.example]:   
 	package [org.example]: 
 	name [Akka Tutorial Project]: 
-	akka_version [2.0]: 
+	akka_version [2.1-SNAPSHOT]: 
 	version [0.1-SNAPSHOT]:
 
 	Applied typesafehub/akka-first-tutorial-scala.g8 in akka-tutorial-project
